@@ -29,9 +29,11 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebastianv-tih&bg_color=00000000&color=faa831&line=faa831&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebastianv-tih/Sebastianv-tih/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sebastianv-tih/Sebastianv-tih/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sebastianv-tih/Sebastianv-tih/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 💭 Dev Quote
 
